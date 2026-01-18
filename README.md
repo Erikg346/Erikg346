@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Erikg346
 - 👀 I’m interested in Site Reliability Engineering ⚙️, cloud infrastructure ☁️, and building reliable systems 💡
 - 🌱 I’m currently learning:
-        - Kubernetes 🐳
-        - Terraform 🔧
-        - Prometheus & Grafana 📊
-        - CI/CD pipelines 🚀
+  - Kubernetes 🐳
+  - Terraform 🔧
+  - Prometheus & Grafana 📊
+  - CI/CD pipelines 🚀
 - 🛠️ Experienced with Elastic Stack for monitoring and observability
 
 <!---
